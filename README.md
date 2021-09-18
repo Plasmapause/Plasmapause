@@ -2,7 +2,7 @@
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
 <a href="https://discord.com/users/686993057656209426">
-<img src="https://discord.c99.nl/widget/theme-2/686993057656209426.png" alt="Discord"/>
+<img src="https://discord.c99.nl/widget/theme-3/686993057656209426.png" alt="Discord Status"/>
 </a>
 
 <br>
