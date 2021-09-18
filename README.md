@@ -16,7 +16,7 @@
 <a rel="noreferrer noopener" href="https://discord.gg/WwYbcXsSC6"><img alt="Auro | Discord" width="40px" src="https://cdn.discordapp.com/emojis/769269527942791208.gif?v=1"></a><a rel="noreferrer noopener" href="https://twitter.com/Aurolytical"><img alt="BiizoNinja | Twitter" width="40px" src="https://cdn.discordapp.com/emojis/865973556294582343.gif?v=1"></a><a rel="noreferrer noopener" href="https://aurolytical.carrd.co"><img alt="Auro | Website" width="40px" src="https://discord.com/assets/516bf0fae97628e22a3a3ec810a8c4ba.svg"></a>
 
 ### Languages <img src="https://cdn.discordapp.com/emojis/838444158976655380.gif?v=1" alt="blobcode" width="22px">
-<img align="left" alt="python" width="22px" src="https://i.imgur.com/brfKEBA.png">
+<img align="left" alt="python" width="22px" src="https://cdn.discordapp.com/attachments/887062469216960512/888848610035376188/813909686947938334.png">
 <img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png">
 
 <br>
@@ -26,7 +26,7 @@
 
 <br>
 
-### GitHub Stats <img src="https://discord.com/assets/7b4003ce2786fcf382c6b1ba5ac08f24.svg" alt="bar" width="22px">
+### GitHub Stats <img src="https://cdn.discordapp.com/emojis/869703345441492993.gif?v=1" alt="chart" width="22px">
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Aurolytical&show_icons=true&theme=tokyonight)
 
 ### Most Recent Repository
