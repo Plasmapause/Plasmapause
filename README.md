@@ -17,11 +17,7 @@
 
 ### Languages <img src="https://cdn.discordapp.com/emojis/838444158976655380.gif?v=1" alt="blobcode" width="22px">
 <img align="left" alt="python" width="26px" src="https://cdn.discordapp.com/attachments/887062469216960512/888848610035376188/813909686947938334.png">
-<img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png">
-
-<br>
-
-### Tools <img src="https://cdn.discordapp.com/emojis/812257750947463168.png?v=1" alt="laptop" width="22px">
+<img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png">### Tools <img src="https://cdn.discordapp.com/emojis/812257750947463168.png?v=1" alt="laptop" width="22px">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png">
 
 <br>
