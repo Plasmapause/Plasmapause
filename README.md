@@ -26,7 +26,7 @@
 
 <br>
 
-### GitHub Stats
+### GitHub Statistics
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Aurolytical&show_icons=true&theme=tokyonight)
 ### Most Recent Repository
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aurolytical&repo=aurolytical&theme=tokyonight)
