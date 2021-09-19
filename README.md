@@ -29,7 +29,7 @@
 ### GitHub Statistics
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Aurolytical&show_icons=true&theme=tokyonight)
 ### Most Recent Repository
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aurolytical&repo=aurolytical&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aurolytical&repo=learning-py&theme=tokyonight)
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurolytical&theme=tokyonight)
 
