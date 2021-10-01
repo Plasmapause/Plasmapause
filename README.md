@@ -4,7 +4,7 @@
 - I'm Currently Learning [Python](https://python.org).
 - Open-Source ❤
 
-<a href="https://discord.gg/RWSEj6JrjJ">
+<a href="https://discord.gg/QZwzAF9xDq">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/Aurolytical">
