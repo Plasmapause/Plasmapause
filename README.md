@@ -16,8 +16,8 @@
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Aurolytical&color=blue&label=Profile-Visits&width=26px)
 
-<a href="https://discord.com/users/686993057656209426">
-<img height="80px" src="https://discord.c99.nl/widget/theme-3/686993057656209426.png" />
+<a href="https://tenor.com/view/ika-musume-type-computer-hacking-gif-11543441">
+<img height="80px" src="https://tenor.com/view/ika-musume-type-computer-hacking-gif-11543441" />
 </a>
 
 ## Stats
