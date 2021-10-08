@@ -1,7 +1,7 @@
 ## Hey there! <img src= "https://cdn.discordapp.com/emojis/819139509613625354.gif?v=1" alt='wave' width="35px">
 
 - I make YouTube content sometimes.
-- I'm Currently Learning [Python](https://python.org).
+- I'm Currently Learning [Python](https://python.org) and [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) i think.
 - Open-Source ❤
 
 <a href="https://discord.gg/QZwzAF9xDq">
