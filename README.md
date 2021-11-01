@@ -1,5 +1,7 @@
 # My name is Auro of course 🙄🙄
 
+[socials](https://bio.link/Aurolytical/) - [professional webpage](https://aurolytical.github.io/)
+
 ## About me
 
 - i give up all the time.
@@ -18,5 +20,3 @@
 - css (this won't be happening anytime soon)
 
 ![Auro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aurolytical&show_icons=true&theme=tokyonight)![Auro's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurolytical&theme=tokyonight)
-
-[socials](https://bio.link/Aurolytical/) - [professional webpage](https://aurolytical.github.io/)
