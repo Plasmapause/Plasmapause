@@ -1,6 +1,4 @@
-# Hi there owo
-
-As you can tell my name is Auro 🙄
+# My name is Auro of course 🙄🙄
 
 ## About me
 
