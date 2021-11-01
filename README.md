@@ -19,4 +19,6 @@
 - html (in progress)
 - css (this won't be happening anytime soon)
 
+#### Pro gamer stats
+
 ![Auro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aurolytical&show_icons=true&theme=tokyonight)![Auro's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurolytical&theme=tokyonight)
